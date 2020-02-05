@@ -11,9 +11,5 @@ namespace Home.Controllers
     {
       return View();
     }
-    public IActionResult Cool()
-    {
-      return View();
-    }
   }
 }

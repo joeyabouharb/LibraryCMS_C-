@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Contexts" t="Include">
+        <e p="LibraryContext.cs" t="Include" />
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="IndexController.cs" t="Include" />
+      </e>
+      <e p="LibraryCMS.csproj" t="IncludeRecursive" />
+      <e p="Migrations" t="Include">
+        <e p="20200131113513_InitDb.Designer.cs" t="Include" />
+        <e p="20200131113513_InitDb.cs" t="Include" />
+        <e p="LibraryContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Author.cs" t="Include" />
+        <e p="Book.cs" t="Include" />
+        <e p="Category.cs" t="Include" />
+        <e p="Loan.cs" t="Include" />
+        <e p="Member.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Services" t="Include">
+        <e p="DataService.cs" t="Include" />
+        <e p="IDataService.cs" t="Include" />
+        <e p="Repositories" t="Include">
+          <e p="BookService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="Layout.cshtml" t="Include" />
+        </e>
+        <e p="_ViewStart.cshtml" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="LibraryCMS.AssemblyInfo.cs" t="Include" />
+            <e p="LibraryCMS.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
